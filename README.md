@@ -11,7 +11,7 @@ Este proyecto genera dinámicamente dos páginas interconectadas únicamente con
 
 ## Cómo Ejecutar
 
-1. Clona este repositorio.
+1. Clona este repositorio. https://github.com/PaulGualotuna/Laboratorio1_PIC.git
 2. Abre index.html en tu navegador usando un servidor local.
 3. Clic en registrar nueva imagen e ingresar la URL y una descripcion.
 4. Dar clic en Agregar imagen y listo.
